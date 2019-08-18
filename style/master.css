@@ -1,0 +1,28 @@
+.error
+{
+  color: #FF0000;
+  text-align: center;
+}
+.success
+{
+  color: #4BB543;
+  text-align: center;
+}
+.link{
+  color: #0000EE;
+  text-align: center;
+}
+.signup
+{
+  background:#A9D0F5;
+  border: 3 px solid #eeeee;
+  padding:9px 9px;
+  width:300px;
+  margin:auto;
+  border-radius:5px;
+}
+
+.center
+{
+  text-align: center
+}
